@@ -1,7 +1,7 @@
 # Background
 The phi-pebbling number of a graph, denoted by Φ(G) is defined similarly to the pebbling number of a graph, denoted by π(G), except every pebble is given a free move to an adjacent vertex before standard 2-for-1 pebbling occurs. It is known that Φ(G) ≤ ⌊π(G)/2⌋ but we improve this bound for a large variety of graph families, and provide examples where the bound is sharp.
 
-Note that verifying phi-pebbling numbers is an NP-Complete problem.
+Note that verifying phi-pebbling numbers is an NP-Complete problem and verifying the diameter of a graph is a P problem.
 
 # Methodology
 In order to find phi-pebbling numbers of different graph families, we first attempted some smaller cases by hand and made a conjecture. Second, we tested whether this conjecture held for some larger cases using the phi-pebbling.py code. Lastly, if everything held, then all results were rigorously proven using combinatorial techniques.
