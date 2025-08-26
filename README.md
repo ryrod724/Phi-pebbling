@@ -4,7 +4,7 @@ The phi-pebbling number of a graph, denoted by Φ(G) is defined similarly to the
 Note that verifying phi-pebbling numbers is an NP-Complete problem.
 
 # Results 
-Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : Φ(R) ≤ 2
+Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : Φ(R) ≤ 2 \\
 Diameter-2 Graphs: Φ(D) ≤ ⌊√(4n+5)⌋ - 2
 Complete Graphs: Φ(K_n) = 1
 Complete Bipartite Graphs: Φ(K_m,n) ≤ 2
