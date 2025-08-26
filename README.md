@@ -6,7 +6,7 @@ Note that verifying phi-pebbling numbers is an NP-Complete problem and verifying
 # Methodology
 For each graph family, in order to formulate the phi-pebbling numbers, we first attempted some smaller cases by hand and made a conjecture. Second, we tested whether this conjecture held for some larger cases using the phi-pebbling.py code. Lastly, if everything held, then all results were rigorously proven using combinatorial techniques.
 
-In some cases, such as Diameter 2 Graphs, we had to run additional testing to verify that each graph does have diameter 2 (which in itself is an interesting problem), using programs such as the one found in diameter-2.py.
+In some cases, such as Diameter-2 Graphs, we had to run additional testing to verify that each graph does indeed have a diameter of 2 (which in itself is an interesting problem), using programs such as the one found in diameter-2.py.
 
 # Results 
 Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : Φ(R) ≤ 2  
