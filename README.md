@@ -4,7 +4,7 @@ The phi-pebbling number of a graph, denoted by Φ(G) is defined similarly to the
 Note that verifying phi-pebbling numbers is an NP-Complete problem and verifying the diameter of a graph is a P problem.
 
 # Methodology
-In order to find phi-pebbling numbers of different graph families, we first attempted some smaller cases by hand and made a conjecture. Second, we tested whether this conjecture held for some larger cases using the phi-pebbling.py code. Lastly, if everything held, then all results were rigorously proven using combinatorial techniques.
+For each graph family, in order to formulate the phi-pebbling numbers, we first attempted some smaller cases by hand and made a conjecture. Second, we tested whether this conjecture held for some larger cases using the phi-pebbling.py code. Lastly, if everything held, then all results were rigorously proven using combinatorial techniques.
 
 In some cases, such as Diameter 2 Graphs, we had to run additional testing to verify that each graph does have diameter 2 (which in itself is an interesting problem), using programs such as the one found in diameter-2.py.
 
