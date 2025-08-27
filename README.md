@@ -22,9 +22,10 @@ Fan Graphs: Φ(F_m,n) ≤ 2
 Petersen Graph: Φ(P) = 3  
 Cartesian Products: Φ(G x H) ≤ min{Φ(G)(π(H)+|H|), Φ(H)(π(G)+|G|)}  
 Grids: Φ(G_m,n) = 2^(m+n-3)  
-Crowns: Φ(C_n) ≤ 4
+Crowns: Φ(C_n) ≤ 4  
+Platonic Graphs: 2, 2, 3, FINISH LAST TWO GRAPHS
 
 # To Do List
-2. Platonic Graph  
+2. Platonic Graph (FINISH)
 3. Braids, Cactus  
 4. Snarks
