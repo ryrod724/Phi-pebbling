@@ -22,7 +22,7 @@ Fan Graphs: Φ(F_m,n) ≤ 2
 Petersen Graph: Φ(P) = 3
 
 # To Do List
-1. Complete Multipartite, Grid, Crown   
+1. Grid, Crown   
 2. Platonic Solids  
 3. Braids, Cactus  
 4. Snarks
