@@ -22,7 +22,7 @@ Fan Graphs: Φ(F_m,n) ≤ 2
 Petersen Graph: Φ(P) = 3  
 Cartesian Products: Φ(G x H) ≤ min{Φ(G)(π(H)+|H|), Φ(H)(π(G)+|G|)}  
 Grids: Φ(G_m,n) = 2^(m+n-3)  
-Crowns: Φ(C_n) = 4
+Crowns: Φ(C_n) ≤ 4
 
 # To Do List
 2. Platonic Solids  
