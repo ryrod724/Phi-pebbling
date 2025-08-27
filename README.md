@@ -18,6 +18,7 @@ Hypercubes: Φ(Q_n) = ⌈3^n/2⌉
 Trees: Φ(T) = Σ(2^(l-1) - 1) + 1  
 Thorn Graphs: Φ(G*) = π_2(G)  
 Cycle Graphs: Φ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n ≡ 1 (mod 4), ⌊π(C_n)/2⌋ if n ≡ 3 (mod 4)
+Fan Graphs: Φ(F_m,n) ≤ 2
 
 # To Do List
-Snarks, Braids, Cactus, Fan, Grid
+Snarks, Braids, Cactus, Grid
