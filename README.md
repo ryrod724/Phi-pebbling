@@ -25,6 +25,6 @@ Grids: Φ(G_m,n) = 2^(m+n-3)
 Crowns: Φ(C_n) ≤ 4
 
 # To Do List
-2. Platonic Solids  
+2. Platonic Graph  
 3. Braids, Cactus  
 4. Snarks
