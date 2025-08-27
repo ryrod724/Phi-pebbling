@@ -17,8 +17,12 @@ Path Graphs: Φ(P_n) = 2^(n-2)
 Hypercubes: Φ(Q_n) = ⌈3^n/2⌉  
 Trees: Φ(T) = Σ(2^(l-1) - 1) + 1  
 Thorn Graphs: Φ(G*) = π_2(G)  
-Cycle Graphs: Φ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n ≡ 1 (mod 4), ⌊π(C_n)/2⌋ if n ≡ 3 (mod 4)
+Cycle Graphs: Φ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n ≡ 1 (mod 4), ⌊π(C_n)/2⌋ if n ≡ 3 (mod 4)  
 Fan Graphs: Φ(F_m,n) ≤ 2
+Petersen Graph: Φ(P) = 3
 
 # To Do List
-Snarks, Braids, Cactus, Grid
+1. Complete Multipartite, Grid, Crown   
+2. Platonic Solids  
+3. Braids, Cactus  
+4. Snarks
