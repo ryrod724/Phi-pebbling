@@ -20,6 +20,7 @@ Thorn Graphs: Φ(G*) = π_2(G)
 Cycle Graphs: Φ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n ≡ 1 (mod 4), ⌊π(C_n)/2⌋ if n ≡ 3 (mod 4)  
 Fan Graphs: Φ(F_m,n) ≤ 2
 Petersen Graph: Φ(P) = 3
+Cartesian Products: Φ(G x H) ≤ min{Φ(G)(π(H)+|H|), Φ(H)(π(G)+|G|)}
 
 # To Do List
 1. Grid, Crown   
