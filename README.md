@@ -21,10 +21,10 @@ Cycle Graphs: Φ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n 
 Fan Graphs: Φ(F_m,n) ≤ 2
 Petersen Graph: Φ(P) = 3  
 Cartesian Products: Φ(G x H) ≤ min{Φ(G)(π(H)+|H|), Φ(H)(π(G)+|G|)}  
-Grids: Φ(G_m,n) = 2^(m+n-3)
+Grids: Φ(G_m,n) = 2^(m+n-3)  
+Crowns: Φ(C_n) = 4
 
 # To Do List
-1. Crown   
 2. Platonic Solids  
 3. Braids, Cactus  
 4. Snarks
