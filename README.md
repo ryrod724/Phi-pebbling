@@ -9,23 +9,22 @@ For each graph family, in order to formulate the phi-pebbling numbers, we first 
 In some cases, such as Diameter-2 Graphs, we had to run additional testing to verify that each graph does indeed have a diameter of 2 (which in itself is an interesting problem), using programs such as the one found in diameter-2.py.
 
 # Results 
-Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : Φ(R) ≤ 2  
-Diameter-2 Graphs: Φ(D) ≤ ⌊√(4n+5)⌋ - 2  
-Complete Graphs: Φ(K_n) = 1  
-Complete k-Partite Graphs: Φ(K_m,n) ≤ 2  
-Path Graphs: Φ(P_n) = 2^(n-2)  
-Hypercubes: Φ(Q_n) = ⌈3^n/2⌉  
-Trees: Φ(T) = Σ(2^(l-1) - 1) + 1  
-Thorn Graphs: Φ(G*) = π_2(G)  
-Cycle Graphs: Φ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n ≡ 1 (mod 4), ⌊π(C_n)/2⌋ if n ≡ 3 (mod 4)  
-Fan Graphs: Φ(F_m,n) ≤ 2
-Petersen Graph: Φ(P) = 3  
-Cartesian Products: Φ(G x H) ≤ min{Φ(G)(π(H)+|H|), Φ(H)(π(G)+|G|)}  
-Grids: Φ(G_m,n) = 2^(m+n-3)  
-Crowns: Φ(C_n) ≤ 4  
-Platonic Graphs (In order of |V|): 2, 2, 3, FINISH LAST TWO GRAPHS
+Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : ϕ(R) ≤ 2  
+Diameter-2 Graphs: ϕ(D) ≤ ⌊√(4n+5)⌋ - 2  
+Complete Graphs: ϕ(K_n) = 1  
+Complete k-Partite Graphs: ϕ(K_m,n) ≤ 2  
+Paths: ϕ(P_n) = 2^(n-2)  
+Hypercubes: ϕ(Q_n) = ⌈3^n/2⌉  
+Trees: ϕ(T) = Σ(2^(l-1) - 1) + 1  
+Thorns: ϕ(G*) = π_2(G)  
+Cycles: ϕ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n ≡ 1 (mod 4), ⌊π(C_n)/2⌋ if n ≡ 3 (mod 4)  
+Fans: ϕ(F_m,n) ≤ 2
+Petersen Graph: ϕ(P) = 3  
+Cartesian Products: ϕ(G x H) ≤ min{ϕ(G)(π(H)+|H|), ϕ(H)(π(G)+|G|)}  
+Grids: ϕ(G_m,n) = 2^(m+n-3)  
+Crowns: ϕ(C_n) ≤ 4 
+Braids:
+Snarks:
 
 # To Do List
-2. Platonic Graph (FINISH)
-3. Braids, Cactus  
-4. Snarks
+Ladder-like braids, snarks, 
