@@ -22,6 +22,6 @@ Fans: ϕ(F_m,n) ≤ 2
 Petersen Graph: ϕ(P) = 3  
 Cartesian Products: ϕ(G x H) ≤ min{ϕ(G)(π(H)+|H|), ϕ(H)(π(G)+|G|)}  
 Grids: ϕ(G_m,n) = 2^(m+n-3)  
-Crowns: ϕ(W_n) ≤ 4 
+Crowns: ϕ(W_n) ≤ 4   
 Ladder-like Braids: (B_m,n) = ???
 
