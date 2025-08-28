@@ -9,7 +9,7 @@ For each graph family, in order to formulate the phi-pebbling numbers, we first 
 In some cases, such as Diameter-2 Graphs, we had to run additional testing to verify that each graph does indeed have a diameter of 2 (which in itself is an interesting problem), using programs such as the one found in diameter-2.py.
 
 # Results 
-Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : ϕ(R) ≤ 2  
+Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : ϕ(R_1) ≤ 2  
 Diameter-2 Graphs: ϕ(D) ≤ ⌊√(4n+5)⌋ - 2  
 Complete Graphs: ϕ(K_n) = 1  
 Complete k-Partite Graphs: ϕ(K_m,n) ≤ 2  
