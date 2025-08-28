@@ -12,7 +12,7 @@ In some cases, such as Diameter-2 Graphs, we had to run additional testing to ve
 Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : ϕ(R_1) ≤ 2  
 Diameter-2 Graphs: ϕ(D) ≤ ⌊√(4n+5)⌋ - 2  
 Complete Graphs: ϕ(K_n) = 1  
-Complete k-Partite Graphs: ϕ(K_m,n) ≤ 2  
+Complete k-Partite Graphs: ϕ(K_a1,a2,...,ak) ≤ 2  
 Paths: ϕ(P_n) = 2^(n-2)  
 Hypercubes: ϕ(Q_n) = ⌈3^n/2⌉  
 Trees: ϕ(T) = Σ(2^(l-1) - 1) + 1  
