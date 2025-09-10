@@ -18,7 +18,7 @@ Hypercubes: ϕ(Q_n) = ⌈3^n/2⌉
 Trees: ϕ(T) = Σ(2^(l-1) - 1) + 1  
 Thorns: ϕ(G*) = π_2(G)  
 Cycles: ϕ(C_n) = π(C_n)/2 if n ≡ 0 or 2 (mod 4), ⌈π(C_n)/2⌉ if n ≡ 1 (mod 4), ⌊π(C_n)/2⌋ if n ≡ 3 (mod 4)  
-Fans: ϕ(F_m,n) ≤ 2
+Fans: ϕ(F_m,n) ≤ 2  
 Petersen Graph: ϕ(P) = 3   
 Cartesian Products: ϕ(G x H) ≤ min{ϕ(G)(π(H)+|H|), ϕ(H)(π(G)+|G|)}  
 Grids: ϕ(G_m,n) = 2^(m+n-3)  
